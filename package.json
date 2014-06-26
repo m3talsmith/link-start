@@ -1,0 +1,21 @@
+{
+  "name": "link-start",
+  "version": "0.0.0",
+  "description": "Our mud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m3talsmith/link-start.git"
+  },
+  "author": "Silvia Christenson <silviacc.christenson@gmail.com>",
+  "contributors": ["Michael Christenson II <m3talsmith@gmail.com>"],
+  "license": "GPLV3.0+",
+  "bugs": {
+    "url": "https://github.com/m3talsmith/link-start/issues"
+  },
+  "homepage": "https://github.com/m3talsmith/link-start"
+}
